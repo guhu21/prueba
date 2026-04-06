@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Studio",
+  "description": "A creative suite for generating and editing images and videos using Gemini and Veo models.",
+  "requestFramePermissions": []
+}
